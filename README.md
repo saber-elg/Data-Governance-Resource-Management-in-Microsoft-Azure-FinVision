@@ -53,15 +53,11 @@
 
 ### System Architecture Overview
 
-<img width="1400" height="900" alt="Image" src="https://github.com/user-attachments/assets/2ba2d915-3ee6-4e57-b466-440d37c74124" />
-
-
-
 ![Image](https://github.com/user-attachments/assets/577b391b-b739-4840-b832-073fc927ca70)
 
 ### Data Flow Architecture
 
-![Image](https://github.com/user-attachments/assets/9d09f269-f629-4293-8a03-dd04c1a81f49)
+![Image](https://github.com/user-attachments/assets/69556439-fd59-4193-b3ae-574fe8114fd1)
 
 ---
 
@@ -257,12 +253,12 @@ RBAC Assignments:
 
 ---
 
-## 📞 Contact
+##  Contact
 
 For questions or collaboration opportunities:
 
 - 📧 Email: medsaberelguelta@gmail.com  
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/mohamed-saber-elguelta)
+- 💼 LinkedIn: [El Guelta Mohamed-Saber](https://linkedin.com/in/mohamed-saber-elguelta)
 - 🐙 GitHub: [@saber-elg](https://github.com/saber-elg)
 
 ---
