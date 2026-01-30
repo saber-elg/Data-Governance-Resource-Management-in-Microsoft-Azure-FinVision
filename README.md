@@ -174,15 +174,7 @@
 
 ### Video Demonstration
 \
-**📺 [Watch Full Demo Video](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)** *(25 minutes)*
-
-**Demo Highlights:**
-- ✅ Live infrastructure walkthrough
-- ✅ PySpark notebook execution (6.3M transactions)
-- ✅ Purview data discovery and classification
-- ✅ Data lineage visualization
-- ✅ Security compliance validation
-- ✅ Cost dashboard review
+**📺 [Watch Full Demo Video](https://youtu.be/A1zBRtiUFTA)** *(8 minutes)*
 
 ---
 
