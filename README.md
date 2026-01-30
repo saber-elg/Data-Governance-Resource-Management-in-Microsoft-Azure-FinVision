@@ -57,7 +57,7 @@
 
 ### Data Flow Architecture
 
-![Image](https://github.com/user-attachments/assets/69556439-fd59-4193-b3ae-574fe8114fd1)
+![Image](https://github.com/user-attachments/assets/4248ecb3-70d4-4d3b-8e40-c78af9d6ac5f)
 
 ---
 
